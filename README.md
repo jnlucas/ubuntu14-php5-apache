@@ -1,4 +1,4 @@
-# ubuntu14-php5-apache [![Release](https://img.shields.io/github/release/t3kit/ubuntu16-php7-apache.svg?style=flat-square)](https://github.com/t3kit/ubuntu16-php7-apache/releases)
+# ubuntu14-php5-apache [![Release](https://img.shields.io/github/release/t3kit/ubuntu14-php5-apache.svg?style=flat-square)](https://github.com/t3kit/ubuntu14-php5-apache/releases)
 
 ## Docker image with Ubuntu14, php5 and apache
 
