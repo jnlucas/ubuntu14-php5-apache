@@ -49,7 +49,7 @@ RUN locale-gen en_US.UTF-8 en_GB.UTF-8 de_DE.UTF-8 es_ES.UTF-8 fr_FR.UTF-8 it_IT
 RUN a2enmod rewrite expires
 
 # Configure PHP
-ADD typo3.php.ini /etc/php/apache2/conf.d/
+ADD typo3.php.ini /etc/php5/apache2/conf.d/
 
 # Configure vhost
 ADD typo3.default.conf /etc/apache2/sites-enabled/000-default.conf
